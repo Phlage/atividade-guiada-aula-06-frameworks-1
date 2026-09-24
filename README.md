@@ -4,7 +4,7 @@ Aplicação React com múltiplas páginas, navegação com **React Router** e ro
 dinâmicas para exibição de detalhes de produtos.
 
 ## Autor
-João Marcelo de Almeida Garcia
+Paulo Henrique da Silva Lage
 
 ## Funcionalidades
 
