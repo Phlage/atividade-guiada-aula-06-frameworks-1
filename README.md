@@ -6,7 +6,7 @@ dinâmicas para exibição de detalhes de produtos.
 ## Autor
 Paulo Henrique da Silva Lage
 Andre Luis
-Natan
+Natan Moreira
 
 ## Funcionalidades
 
